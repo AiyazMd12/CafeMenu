@@ -45,7 +45,7 @@ const Index = () => {
           </MenuCategory>
 
           <MenuCategory title="Snacks">
-            <MenuItem name="Perepere" price="₹130" />
+            <MenuItem name="Pere Pere" price="₹130" />
             <MenuItem name="Chicken Nuggets" price="₹199" />
             <MenuItem name="Harabara kabab" price="₹150" />
           </MenuCategory>
